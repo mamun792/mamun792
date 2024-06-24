@@ -28,7 +28,13 @@
 [![leave-allocation-spring-boot-backend](https://github-readme-stats.vercel.app/api/pin/?username=mamun792&repo=LeaveApplication_Api&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mamun792/LeaveApplication_Api)
 [![leave-allocation-spring-boot-backend](https://github-readme-stats.vercel.app/api/pin/?username=mamun792&repo=LeaveApplication_Api&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mamun792/LeaveApplication_Api)
 [![teachAlpha](https://github-readme-stats.vercel.app/api/pin/?username=mamun792&repo=teachAlpha&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mamun792/teachAlpha)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+
+**ecommerce** (PHP/Laravel)  
 [![ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=mamun792&repo=Munak_mart&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mamun792/Munak_mart)
+
+**doctor-appointment** (PHP/Laravel)  
 [![doctor-appointment](https://github-readme-stats.vercel.app/api/pin/?username=mamun792&repo=DLPCMS&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mamun792/DLPCMS)
 
 
