@@ -25,7 +25,8 @@
 
 <div align="left">
 
-[![leave-allocation-spring-boot-backend](https://github-readme-stats.vercel.app/api/pin/?username=mamun792&repo=leave-allocation-spring-boot-backend&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mamun792/LeaveApplication_Api)
+[![leave-allocation-spring-boot-backend](https://github-readme-stats.vercel.app/api/pin/?username=mamun792&repo=LeaveApplication_Api&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mamun792/LeaveApplication_Api)
+
 
 
 
