@@ -1,4 +1,4 @@
-<div align="center">
+j<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Mahababur+Rahman+%F0%9F%91%8B;Full-Stack+Engineer;Java+%7C+Laravel+%7C+Next.js+%7C+Vue.js;Building+Scalable+%26+Secure+Systems" alt="Typing SVG" />
 </div>
 
@@ -23,7 +23,7 @@ I'm a **Full-Stack Engineer** specializing in building scalable enterprise appli
 - 🌱 Deep-diving into: **System Design, Cloud-Native Architecture & DDD**
 - 🛠️ Preferred stack: **Java (Spring Boot) · PHP (Laravel 11) · Next.js 15 · Vue.js 3**
 - 💬 Ask me about: **Backend architecture, REST API design, Laravel/Spring security, or CQRS**
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: mahababur.edu.bd@gmail.com
 
 ---
 
